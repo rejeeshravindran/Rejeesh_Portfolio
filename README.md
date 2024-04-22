@@ -1,5 +1,5 @@
 # Rejeesh_Portfolio
-# [Nashville_Housing_Project] (https://github.com/rejeeshravindran/Nashville_Housing_Project.git)
+# [Nashville_Housing_Project](https://github.com/rejeeshravindran/Nashville_Housing_Project)
 ** The Data used is Nashville Housing. The data contains informations about the housing of Nashville city in USA. 
 The Problem statement is to find insights about the sales of the Housing. 
 
@@ -9,5 +9,5 @@ Cleaning of the data is thoroughly explained with comments in the SQL File
 After the data is cleaned it is loaded to Microsoft PowerBI from SQL Server Database for visualisation & presentation of the insights.**
 
 ## Visualization of the Findings
-![](Image/Nashvilleimage.jpg)
+![](Images/Nashville.png)
 
