@@ -1,6 +1,7 @@
 # Rejeesh_Portfolio
 # [Nashville_Housing_Project](https://github.com/rejeeshravindran/Nashville_Housing_Project)
-The Data used is Nashville Housing. The data contains informations about the housing of Nashville city in USA. 
+The Data used is Nashville Housing collected from https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
+The data contains informations about the housing of Nashville city in USA. 
 The Problem statement is to find insights about the sales of the Housing. 
 
 While exploring the data for the first time, It contains mainly informations related to house/plot of customers.
