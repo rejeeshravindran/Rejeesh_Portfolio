@@ -16,10 +16,14 @@ After the data is cleaned it is loaded to Microsoft PowerBI from SQL Server Data
 ## Sales Analysis of Nashville City 
 
 1,The average selling price for the housing is higher for the building with more bedrooms.
+
 2,In the 7 years from 2013 to 2019 we can see that in 2015 got higher sales.
  ( note: 2017 & 2018 datas are missing from the raw file)
+ 
 3, Single Family houses are the most sold(9.6 BN), Residential Condos are the second most sold(6.1 BN)
+
 4, Single Family houses produced the highest revenue.
+
 5, Vacant Commercial Land and Zero Lot Line have generated least revenue. 
 
 ## Summary
