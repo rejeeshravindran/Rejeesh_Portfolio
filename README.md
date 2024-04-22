@@ -9,5 +9,6 @@ Cleaning of the data is thoroughly explained with comments in the SQL File
 After the data is cleaned it is loaded to Microsoft PowerBI from SQL Server Database for visualisation & presentation of the insights.**
 
 ## Visualization of the Findings
-![](Images/Nashville.png)
+
+![](Nashville_Housing_Project/Images/Nashville.png)
 
