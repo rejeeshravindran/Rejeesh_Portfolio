@@ -1,4 +1,30 @@
 # Rejeesh_Portfolio
+
+# [Accenture-Socialmedia-project](https://github.com/rejeeshravindran/Accenture-Socialmedia-project)
+
+The client Social Buzz is a Social media & content creation firm. Accenture has started a POC on below 
+An audit of their big data practice , Recommendations for a successful IPO , The problem statement is an analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity 
+
+The 3 datasets given is cleaned and merged and modeled into a single dataset. The process is done on both Microsoft Excel and SQL. After the data is cleaned and modeled it is loaded to Microsoft PowerBI for visualisation & presentation of the insights. 
+## Visualization of the Insights 
+![](Image/insights.png)
+
+## Insights
+The top 5 categories were Animals, Science, Healthy eating, Technology & Food these items have the highest reaction counts and reaction scores. Animals have the highest reaction score and followed by others.
+Food comes at 5th based on the reaction score criteria, But it comes 4th by the total number of count by reactions.
+The major category in the top 5 is food.
+
+## Summary & conclusion 
+
+If the company is able to focus more contents on the top 5 items listed. It can increase the user activity on the platform.
+As per the top 5 contents. It seems that users are looking for real life contents. We can add more unique contents according to the top performing content. 
+We can see that January and May have more reactions and engagement. Therefore, we can add more advertisements in these months to gain an advantage, Also these months we can increase the cost for advertisment sponsor's since there is higher user activity. 
+In the top 5 category there is healthy eating and food, One suggestion is to collaborate with a healthy eating brand to 
+do campaigns which may increase revenue. Thank you.
+
+
+
+
 # [Nashville_Housing_Project](https://github.com/rejeeshravindran/Nashville_Housing_Project)
 The Data used is Nashville Housing collected from https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
 The data contains informations about the housing of Nashville city in USA. 
@@ -6,8 +32,8 @@ The Problem statement is to find insights about the sales of the Housing.
 
 While exploring the data for the first time, It contains mainly informations related to house/plot of customers.
 The data is first loaded in Excel and explored. Then it was imported to SQL (SSMS) 
-Cleaning of the data is thoroughly explained with comments in the SQL File 
-After the data is cleaned it is loaded to Microsoft PowerBI from SQL Server Database for visualisation & presentation of the insights.
+Cleaning and modeling of the data is thoroughly explained with comments in the SQL File 
+After the data is cleaned and modeled it is loaded to Microsoft PowerBI from SQL Server Database for visualisation & presentation of the insights.
 
 ## Visualization of the Findings
 
@@ -27,7 +53,7 @@ After the data is cleaned it is loaded to Microsoft PowerBI from SQL Server Data
 
 5, Vacant Commercial Land and Zero Lot Line have generated least revenue. 
 
-## Summary
+## Summary & conclusion 
 
 Considering the given data, By finding the concerned Sales people for the year 2015 and giving
 them raise and better commission may increase sales.
