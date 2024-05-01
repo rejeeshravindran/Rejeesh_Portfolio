@@ -2,7 +2,7 @@
 
 # [Accenture-Socialmedia-project](https://github.com/rejeeshravindran/Accenture-Socialmedia-project)
 
-The client Social Buzz is a Social media & content creation firm. Accenture has started a POC on below 
+The client Social Buzz is a Social media & content creation firm. Accenture has started a POC on below, 
 An audit of their big data practice , Recommendations for a successful IPO , The problem statement is an analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity 
 
 The 3 datasets given is cleaned and merged and modeled into a single dataset. The process is done on both Microsoft Excel and SQL. After the data is cleaned and modeled it is loaded to Microsoft PowerBI for visualisation & presentation of the insights. 
@@ -17,8 +17,9 @@ The major category in the top 5 is food.
 ## Summary & conclusion 
 
 If the company is able to focus more contents on the top 5 items listed. It can increase the user activity on the platform.
-As per the top 5 contents. It seems that users are looking for real life contents. We can add more unique contents according to the top performing content. 
-We can see that January and May have more reactions and engagement. Therefore, we can add more advertisements in these months to gain an advantage, Also these months we can increase the cost for advertisment sponsor's since there is higher user activity. 
+As per the top 5 category, It seems that users are looking for real life contents. So we suggest to add more unique contents on the same. 
+We can see that January and May have more reactions and engagement. Therefore, we advise to integrate more advertisements in these months to gain an advantage, 
+since there is higher user activity on these specific months, You can increase advertsing costs. 
 In the top 5 category there is healthy eating and food, One suggestion is to collaborate with a healthy eating brand to 
 do campaigns which may increase revenue. Thank you.
 
