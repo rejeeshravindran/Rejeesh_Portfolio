@@ -7,7 +7,7 @@ An audit of their big data practice , Recommendations for a successful IPO , The
 
 The 3 datasets given is cleaned and merged and modeled into a single dataset. The process is done on both Microsoft Excel and SQL. After the data is cleaned and modeled it is loaded to Microsoft PowerBI for visualisation & presentation of the insights. 
 ## Visualization of the Insights 
-![](Image/insights.png)
+![](Images/insights.png)
 
 ## Insights
 The top 5 categories were Animals, Science, Healthy eating, Technology & Food these items have the highest reaction counts and reaction scores. Animals have the highest reaction score and followed by others.
