@@ -3,6 +3,8 @@
 
 # [Awesome-Chocolates-Company-Sales-Analysis-Project](https://github.com/rejeeshravindran/Awesome_Chocolate_Company.git)
 
+
+
 The Data used is from the company Awesome Chocolate
 The data contains informations about the sales of their product in different countries.
 The Problem statement is to find insights about the sales of the products. 
@@ -12,10 +14,13 @@ Cleaning and modeling & EDA of the data is done seperately in Excel, SQL  & Powe
 
 ## Visualization of the Findings
 
-![](Images/Nashville.png)
+![](images/salesperson.png)
+![](images/profitperc.png)
+![](images/amount_revenue.png)
 
 
-## Sales Analysis of Nashville City 
+
+## Sales Analysis of Awesome chocolates 
 
 1,The average selling price for the housing is higher for the building with more bedrooms.
 
@@ -43,7 +48,7 @@ An audit of their big data practice , Recommendations for a successful IPO , The
 
 The 3 datasets given is cleaned and merged and modeled into a single dataset. The process is done on both Microsoft Excel and SQL. After the data is cleaned and modeled it is loaded to Microsoft PowerBI for visualisation & presentation of the insights. 
 ## Visualization of the Insights 
-![](Images/insights.png)
+![](images/insights.png)
 
 ## Insights
 The top 5 categories were Animals, Science, Healthy eating, Technology & Food these items have the highest reaction counts and reaction scores. Animals have the highest reaction score and followed by others.
