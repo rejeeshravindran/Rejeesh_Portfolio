@@ -14,9 +14,9 @@ Cleaning and modeling & EDA of the data is done seperately in Excel, SQL  & Powe
 
 ## Visualization of the Findings
 
+![](images/amount_revenue.png)
 ![](images/salesperson.png)
 ![](images/profitperc.png)
-![](images/amount_revenue.png)
 
 
 
