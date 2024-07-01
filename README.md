@@ -1,6 +1,5 @@
 # [Rejeesh's Profile](https://github.com/rejeeshravindran)
  
-# Rejeesh-Portfolio   
 
 # [Nashville_Housing_Project](https://github.com/rejeeshravindran/Nashville_Housing_Project)
 
