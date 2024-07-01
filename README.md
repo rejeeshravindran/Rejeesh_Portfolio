@@ -1,6 +1,6 @@
-# [My Profile:](https://github.com/rejeeshravindran)
+# [Rejeesh Profile:](https://github.com/rejeeshravindran)
  
-# Rejeesh Portfolio   
+# Rejeesh-Portfolio   
 
 # [Accenture-Socialmedia-project](https://github.com/rejeeshravindran/Accenture-Socialmedia-project)
 
