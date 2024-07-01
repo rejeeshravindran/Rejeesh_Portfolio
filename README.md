@@ -1,16 +1,14 @@
 # [Rejeesh's Profile](https://github.com/rejeeshravindran)
  
 
-# [Nashville_Housing_Project](https://github.com/rejeeshravindran/Nashville_Housing_Project)
+# [Awesome-Chocolates-Company-Sales-Analysis-Project](https://github.com/rejeeshravindran/Awesome_Chocolate_Company.git)
 
-The Data used is Nashville Housing collected from https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
-The data contains informations about the housing of Nashville city in USA. 
-The Problem statement is to find insights about the sales of the Housing. 
+The Data used is from the company Awesome Chocolate
+The data contains informations about the sales of their product in different countries.
+The Problem statement is to find insights about the sales of the products. 
 
-While exploring the data for the first time, It contains mainly informations related to house/plot of customers.
-The data is first loaded in Excel and explored. Then it was imported to SQL (SSMS) 
-Cleaning and modeling of the data is thoroughly explained with comments in the SQL File 
-After the data is cleaned and modeled it is loaded to Microsoft PowerBI from SQL Server Database for visualisation & presentation of the insights.
+The data is first loaded in Excel and explored. Then it was imported to SQL (SQL Server) 
+Cleaning and modeling & EDA of the data is done seperately in Excel, SQL  & Power BI.
 
 ## Visualization of the Findings
 
