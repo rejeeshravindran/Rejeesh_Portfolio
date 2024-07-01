@@ -1,8 +1,6 @@
 # [Rejeesh's Profile](https://github.com/rejeeshravindran)
  
-
 # [Awesome-Chocolates-Company-Sales-Analysis-Project](https://github.com/rejeeshravindran/Awesome_Chocolate_Company.git)
-
 
 
 The Data used is from the company Awesome Chocolate
@@ -12,11 +10,18 @@ The Problem statement is to find insights about the sales of the products.
 The data is first loaded in Excel and explored. Then it was imported to SQL (SQL Server) 
 Cleaning and modeling & EDA of the data is done seperately in Excel, SQL  & Power BI.
 
-## Visualization of the Findings
+## Visualization of the Findings using Power BI
 
 ![](images/amount_revenue.png)
+The dashboard helps the viewer to understand whether amount goes below revenue. Top 5 products with the highest dollar per-
+amount is also shown. Used countries as filter.
 ![](images/salesperson.png)
+The dashboard tells the sales generated according to each sales person, custom measure is also added to switch between-
+Profit and Amount with country as filter.
 ![](images/profitperc.png)
+This dashboard shows the products to discontinue, Product by profit percentage graph with a country filter helps-
+to highlight the product with negative profits.
+
 
 
 
