@@ -1,4 +1,4 @@
-# [Rejeesh Profile:](https://github.com/rejeeshravindran)
+# [Rejeesh Profile](https://github.com/rejeeshravindran)
  
 # Rejeesh-Portfolio   
 
