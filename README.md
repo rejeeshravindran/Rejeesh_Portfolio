@@ -4,7 +4,7 @@
 # [Awesome-Chocolates-Company-Sales-Analysis-Project](https://github.com/rejeeshravindran/Awesome_Chocolate_Company.git)
 
 
-The Dataset used is from the company Awesome Chocolates
+The Dataset used is from the company 'Awesome Chocolates'
 The data contains informations about the sales of their product in different countries.
 The Problem statement is to find insights about the sales of the products. 
 
