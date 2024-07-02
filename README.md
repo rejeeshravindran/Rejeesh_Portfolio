@@ -1,7 +1,7 @@
 
 # [Rejeesh's Github Profile](https://github.com/rejeeshravindran)
  
-# [Awesome-Chocolates-Company-Sales-Analysis-Project](https://github.com/rejeeshravindran/Awesome_Chocolate_Company.git)
+# [Awesome Chocolates Company Sales Analysis Project](https://github.com/rejeeshravindran/Awesome_Chocolate_Company.git)
 
 
 The Dataset used is from the company 'Awesome Chocolates'
@@ -24,7 +24,7 @@ This dashboard shows the products to discontinue, Product by profit percentage g
 to highlight the product with negative profits.
 
 
-# [Accenture-Socialmedia-project](https://github.com/rejeeshravindran/Accenture-Socialmedia-project)
+# [Accenture Socialmedia project](https://github.com/rejeeshravindran/Accenture-Socialmedia-project)
 
 The client Social Buzz is a Social media & content creation firm. Accenture has started a POC on below, 
 An audit of their big data practice , Recommendations for a successful IPO , The problem statement is an analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity 
