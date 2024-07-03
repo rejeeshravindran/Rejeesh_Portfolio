@@ -13,15 +13,11 @@ Cleaning and modeling & EDA of the data is done seperately in Excel, SQL  & Powe
 
 ## Visualization of the Findings using Power BI
 
-![](images/amount_revenue.png)
-The dashboard helps the viewer to understand whether amount goes below revenue. Top 5 products with the highest dollar per-
-amount is also shown. Used countries as filter.
-![](images/salesperson.png)
-The dashboard tells the sales generated according to each sales person, custom measure is also added to switch between-
-Profit and Amount with country as filter.
-![](images/profitperc.png)
-This dashboard shows the products to discontinue, Product by profit percentage graph with a country filter helps-
-to highlight the product with negative profits.
+![](images/orgi.png)
+
+The Dataset used is from the company ‘Awesome Chocolates’ The data contains information’s about the sales of their product in different countries. The Problem statement is to find insights about the sales of the products. The data is first loaded in Excel and explored. Then it was imported to SQL (SQL Server) Cleaning and modeling & EDA of the data is done separately in Excel, SQL & Power BI.
+
+This dashboard helps the viewer to understand whether the amount goes below revenue. Top 5 products with the highest dollar per- amount are also shown. The dashboard also tells the sales generated according to each salesperson, custom measure is also added to switch between- Profit and Amount with country as filter. We can also easily understand which are the products to discontinue, Product by profit percentage graph helps- to highlight the products with negative profit values.
 
 
 # [Accenture Socialmedia project](https://github.com/rejeeshravindran/Accenture-Socialmedia-project)
