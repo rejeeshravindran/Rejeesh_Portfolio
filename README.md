@@ -26,7 +26,7 @@ The Dataset used is from the company ‘Awesome Chocolates’ The data contains 
 5, We can also easily understand which are the products to discontinue, Product by profit percentage graph helps- to highlight the products with negative profit values.
 
 
-# [Call Center Performance Analysis project](https://github.com/rejeeshravindran/Accenture-Socialmedia-project)
+# [Call Center Performance Analysis project](https://github.com/rejeeshravindran/Call-Center-Performance-Report.git)
 
 The Data set used is from the internship project of PWC - Call Center Data , First Data is analyzed In Excel and it is Imported to Power BI then Modeled to create the required reports.
 
