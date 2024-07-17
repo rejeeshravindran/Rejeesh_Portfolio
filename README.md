@@ -21,9 +21,9 @@ The Dataset used is from the company ‘Awesome Chocolates’ The data contains 
 
 2, Top 5 products with the highest dollar per- amount are also shown. 
 
-3, The dashboard also tells the sales generated according to each salesperson, custom measure is also added to switch 4, between- Profit and Amount with country as filter.
+3, The dashboard also tells the sales generated according to each salesperson, custom measure is also added to switch between Profit and Amount with country as filter.
 
-5, We can also easily understand which are the products to discontinue, Product by profit percentage graph helps- to highlight the products with negative profit values.
+4, We can also easily understand which are the products to discontinue, Product by profit percentage graph helps- to highlight the products with negative profit values.
 
 
 # [Call Center Performance Analysis project](https://github.com/rejeeshravindran/Call-Center-Performance-Report.git)
@@ -55,6 +55,8 @@ Martha - Highest customer Satisfaction Rating
 5, We are having slightly high abandoned calls for technical support topics. we must always ensure the abandoned calls details must be pulled out everyday and should call back the customer.
 
 6, Martha has high satisfaction rating and those agents should be praised and we also need to study their approach to train others in improving the services.
+
+
 7, Agents with talk time above average should undergo training also agents with high abandoned rate, high speed of answer and low satisfaction rate should strictly be monitored.
 
 
