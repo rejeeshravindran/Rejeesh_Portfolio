@@ -26,14 +26,6 @@ header {
     border-bottom: 5px solid #4CAF50;
 }
 
-header .profile-pic {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    margin-bottom: 20px;
-    border: 5px solid #4CAF50;
-}
-
 header h1 {
     font-size: 2.5em;
     margin-bottom: 10px;
@@ -44,30 +36,55 @@ header p {
     margin-bottom: 20px;
 }
 
-header .skills, header .experience {
-    margin-bottom: 20px;
-    text-align: left;
-}
-
-header .skills ul, header .experience ul {
+ul.contact-info {
     list-style-type: none;
+    margin-bottom: 20px;
 }
 
-header .skills ul li, header .experience ul li {
+ul.contact-info li {
+    margin-bottom: 10px;
+}
+
+ul.social-links {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+ul.social-links li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+ul.social-links li a {
+    color: #fff;
+    text-decoration: none;
+    background-color: #4CAF50;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+
+ul.social-links li a:hover {
+    background-color: #45a049;
+}
+
+a.view-portfolio {
+    display: inline-block;
     background: #4CAF50;
     color: #fff;
-    padding: 10px;
-    margin-bottom: 10px;
-    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+a.view-portfolio:hover {
+    background: #45a049;
 }
 
 section {
     padding: 40px 0;
     background: #fff;
-}
-
-section#projects {
-    background: #f9f9f9;
+    margin-bottom: 20px;
 }
 
 section h2 {
@@ -79,50 +96,45 @@ section h2 {
     letter-spacing: 1px;
 }
 
-.project {
-    background: #fff;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    text-align: center;
+.job {
+    margin-bottom: 30px;
 }
 
-.project:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-}
-
-.project img {
-    max-width: 100%;
-    border-radius: 5px;
-}
-
-.project h3 {
+.job h3 {
     font-size: 1.8em;
-    margin-bottom: 0.5em;
+    margin-bottom: 10px;
     color: #4CAF50;
 }
 
-.project p {
-    font-size: 1.2em;
-    color: #666;
-    margin-bottom: 20px;
+.job p {
+    margin-bottom: 10px;
 }
 
-.project a {
-    display: inline-block;
-    background: #4CAF50;
-    color: #fff;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 3px;
-    transition: background 0.3s ease;
+.job ul {
+    padding-left: 20px;
+    list-style-type: disc;
 }
 
-.project a:hover {
-    background: #45a049;
+.job ul li {
+    margin-bottom: 5px;
+}
+
+#skills ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+#skills ul li {
+    margin-bottom: 10px;
+}
+
+#certifications ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+#certifications ul li {
+    margin-bottom: 10px;
 }
 
 footer {
