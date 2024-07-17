@@ -15,94 +15,84 @@ body {
 .container {
     max-width: 960px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 20px; /* Adjusted padding */
 }
 
 header {
     background: #333;
     color: #fff;
-    padding: 40px 20px; /* Adjusted padding */
+    padding: 20px 0;
     text-align: center;
     border-bottom: 5px solid #4CAF50;
 }
 
-header h1 {
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-left h1 {
     font-size: 2.5em;
     margin-bottom: 10px;
 }
 
-header p {
+.header-left p {
     font-size: 1.2em;
     margin-bottom: 20px;
 }
 
-.skills {
-    text-align: left; /* Align skills to the left */
-    margin-bottom: 20px;
+.header-center ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
 }
 
-.skills h2 {
-    color: #4CAF50;
-    font-size: 1.5em;
+.header-center ul li {
     margin-bottom: 10px;
 }
 
-.skills ul {
+.header-center ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header-right {
+    text-align: right;
+}
+
+.header-right .social-links {
     list-style-type: none;
-    padding-left: 0;
+    margin: 0;
+    padding: 0;
 }
 
-.skills ul li {
-    margin-bottom: 5px;
-}
-
-ul.contact-info {
-    list-style-type: none;
-    margin-bottom: 20px;
-}
-
-ul.contact-info li {
-    margin-bottom: 10px;
-}
-
-ul.social-links {
-    list-style-type: none;
-    margin-bottom: 20px;
-}
-
-ul.social-links li {
+.header-right .social-links li {
     display: inline-block;
     margin-right: 10px;
 }
 
-ul.social-links li a {
+.header-right .social-links li a {
     color: #fff;
     text-decoration: none;
-    background-color: #4CAF50;
-    padding: 8px 16px;
-    border-radius: 5px;
 }
 
-ul.social-links li a:hover {
-    background-color: #45a049;
-}
-
-a.view-portfolio {
+.view-portfolio {
     display: inline-block;
     background: #4CAF50;
     color: #fff;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 3px;
-    margin-top: 20px;
 }
 
-a.view-portfolio:hover {
+.view-portfolio:hover {
     background: #45a049;
 }
 
 section {
-    padding: 40px 0;
+    padding: 40px 20px;
     background: #fff;
     margin-bottom: 20px;
 }
@@ -139,21 +129,21 @@ section h2 {
     margin-bottom: 5px;
 }
 
-#skills ul {
+.skills ul {
     list-style-type: none;
     padding-left: 20px;
 }
 
-#skills ul li {
+.skills ul li {
     margin-bottom: 10px;
 }
 
-#certifications ul {
+.certifications ul {
     list-style-type: none;
     padding-left: 20px;
 }
 
-#certifications ul li {
+.certifications ul li {
     margin-bottom: 10px;
 }
 
