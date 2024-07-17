@@ -33,7 +33,7 @@ The Data set used is from the internship project of PWC - Call Center Data , Fir
 
 ## Visualization of the Insights 
 
-![](call.png)
+![](images/call.png)
 
 
 
