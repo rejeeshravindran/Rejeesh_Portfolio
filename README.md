@@ -11,7 +11,7 @@ The Problem statement is to find insights about the sales of the products.
 The data is first loaded in Excel and explored. Then it was imported to SQL (SQL Server) 
 Cleaning and modeling & EDA of the data is done seperately in Excel, SQL  & Power BI.
 
-## Visualization of the Findings using Power BI
+## Dashboard using Power BI
 
 ![](images/orgi.png)
 
